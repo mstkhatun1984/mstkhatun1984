@@ -13,10 +13,16 @@ Here are some ideas to get you started:
 
 ## Skills
 - HTML5
-- CSS3
-- JavaScript (ES6+)
+- CSS
+-  Java
+- JavaScript
+- TypeScript
 - Python
-- Java
+- React
+- Express
+- PostgreSQL
+- Ionic,
+- Prisma
 - Git & GitHub
 - VS Code
 - AI-Assisted Coding (GitHub Copilot)
